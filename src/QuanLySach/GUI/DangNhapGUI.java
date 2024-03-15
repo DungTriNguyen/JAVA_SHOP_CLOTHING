@@ -50,7 +50,7 @@ public class DangNhapGUI extends JFrame {
     private void addControls() {
         Container con = getContentPane();
 
-        pnMain = new ImagePanel("image/LoginUI/background.png");
+        pnMain = new ImagePanel("image/LoginUI/backgroundLogin.png");
         pnMain.setForeground(new Color(255, 255, 0));
         pnMain.setLayout(null);
         
